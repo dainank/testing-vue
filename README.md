@@ -1,6 +1,16 @@
 # Testing Vue
 Practicing testing of Vue.js (2.X) applications.
 
+## To Run
+```js
+npm i
+npm run serve
+```
+
+## Additional Commands
+`npm run lint` - if adding new code
+`npm run build` - to build dist
+
 ## Topics
 - automated testing
 - unit testing (Jest)
