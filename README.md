@@ -8,8 +8,8 @@ npm run serve
 ```
 
 ## Additional Commands
-- `npm run lint`: if adding new code
-- `npm run build`: to build dist
+- `npm run lint` : if adding new code
+- `npm run build` : to build dist
 
 ## Topics
 - automated testing
