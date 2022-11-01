@@ -4,7 +4,7 @@ Practicing testing of Vue.js (2.X) applications.
 ## To Run
 ```js
 npm i
-npm run serve
+npm run dev
 ```
 
 ## Additional Commands

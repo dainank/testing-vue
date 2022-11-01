@@ -1,18 +1,8 @@
 import Vue from 'vue'
-import App from './App'
-import { fetchListData } from './api/api'
+import App from './App.vue'
 
-Vue.config.productionTip = false
+import './assets/main.css'
 
-function getTopItems () {
-  return fetchListData('top')
-    .then(items => items)
-}
-
-getTopItems().then((items) => {
-  window.items = items
-  new Vue({
-    el: '#app',
-    render: h => h(App)
-  })
-})
+new Vue({
+  render: (h) => h(App)
+}).$mount('#app')
