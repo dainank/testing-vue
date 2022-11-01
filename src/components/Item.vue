@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="textContent">
     item
   </div>
 </template>
