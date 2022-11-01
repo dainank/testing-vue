@@ -8,7 +8,7 @@ npm run dev
 ```
 
 ## Additional Commands
-- `npm run lint` : if adding new code
+- ~~`npm run lint` : if adding new code~~
 - `npm run build` : to build dist
 
 ## Topics
